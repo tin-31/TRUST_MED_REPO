@@ -9,3 +9,4 @@ numpy
 Pillow
 matplotlib
 gdown
+pydicom
